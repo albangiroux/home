@@ -5,6 +5,8 @@
 Enginering team manager with full stack and functionnal skills.
 High experience in developement on SAAS application.
 
+Born in 2017. Lives in Bry/Marne (94)
+
 ## JOBS
 
 ### 2018-08 / Actual: Teams manager at [LOOP Software](https://www.loopsoftware.fr/)
