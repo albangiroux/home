@@ -23,7 +23,8 @@ You can follow me on my [Linkedin page](https://www.linkedin.com/in/alban-giroux
 * Back-end: Java, DropWizard (include jetty etc..), Google cloud, Eclipse   
 * Full video: Restricted access only.
 * Short video:
-[![Alt text](https://img.youtube.com/vi/TfJP1vAy5jo/0.jpg)](https://youtu.be/TfJP1vAy5jo)
+
+[![Redux POC video](https://img.youtube.com/vi/TfJP1vAy5jo/0.jpg)](https://youtu.be/TfJP1vAy5jo)
 
 ## Project 3: GraphQL Project (2018 sept)
 
@@ -32,5 +33,8 @@ You can follow me on my [Linkedin page](https://www.linkedin.com/in/alban-giroux
     * Make an application that enables a user to see another user's pending changes in real time.
     * Replace Redux with Apollo client for the applicaton state management
 * Front-end: React, Apollo Client, Bootstrap, SASS, Webpack, Typescript, VsCode
-* Back-end: Node.js, Apollo Server, Yoga, Sequelize, SQL Server   
-* Video: [Click here](graphQL_POC.mp4)
+* Back-end: Node.js, Apollo Server, Yoga, Sequelize, SQL Server
+* Video:
+
+[![Graph QL POC video](https://img.youtube.com/vi/vQ8EMYot5vk/0.jpg)](https://youtu.be/vQ8EMYot5vk)
+
