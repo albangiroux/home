@@ -21,8 +21,9 @@ You can follow me on my [Linkedin page](https://www.linkedin.com/in/alban-giroux
     * Build a Progressive Web Application (PWA) available offline.
 * Front-end: React, Redux, Bootstrap, SASS, Webpack, Typescript, VsCode
 * Back-end: Java, DropWizard (include jetty etc..), Google cloud, Eclipse   
-* Short video: [Click here](redux_POC.mp4)
 * Full video: Restricted access only.
+* Short video:
+[![Alt text](https://img.youtube.com/vi/TfJP1vAy5jo/0.jpg)](https://youtu.be/TfJP1vAy5jo)
 
 ## Project 3: GraphQL Project (2018 sept)
 
