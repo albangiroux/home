@@ -2,32 +2,38 @@
 
 ![photo](photo.jpg)
 
-Enginering team manager with full stack and functionnal skills.
-High experience in developement on SAAS application.
+Product manager with high experience in developement on SAAS application.
 
-Born in 2017. Lives in Bry/Marne (94)
+Born in 1977. Lives in Bry/Marne (94) - France
 
 ## JOBS
 
-### 2018-08 / Actual: Teams manager at [LOOP Software](https://www.loopsoftware.fr/)
+### 2019-10 / Actual: Product manager at [EDoc](https://www.edoc.fr/)
+
+* SAAS Product Manager: electronic signature, electronic payroll and electronic safe.
+* Set up SCRUM. Team product owner
+* Roadmap management with a UI/UX and API approach
+* Product Marketing: Price strategy (subscription model), follow-up of partners 
+
+### 2018-08 / 2019-09: Teams manager at [LOOP Software](https://www.loopsoftware.fr/) (A [CEGID](https://www.cegid.com/fr/) company)
 
 * Management: 
     - Set up Scrum. Scrum master of 2 teams (5 + 5 team members)
-    - Management: 4 developers
+    - Management: 4 engineers
     - Main goal: Increase the quality of the delivery (code review, set up internal process, anticipate scalability issues ...)
 * Stack:
     - Front: Ext.js towards React.js
     - Back: Node.js, Micro service, MongoDB, SQL Server, Kibana, Prometheus, Microsoft graphs
     - Tools: Gitlab, Github, Jira, Teams, Azure Devops, Docker
-* The application: more than 100K database, up to 5000 users/day.
+* The software: more than 100K database, up to 5 000 users/day.
 
 ### 2017-01 / 2018-08: Teams & project manager at [CEGID](https://www.cegid.com/fr/)
 
 3 projects concurrently:
 * Maintain [Yourcegid Fiscalité](https://www.cegid.com/fr/produits/yc-fiscalite/) (see above)
-    - Management: 2 developers + Scrum master (6 team members)
+    - Management: 2 engineers + Scrum master (6 team members)
 * Rewrite Yourcegid Consolidation POC:
-    - Managment: 1 junior developer
+    - Management: 1 junior engineer
     - Stack: React Redux Typescript GraphQL Node.js SQL Server
 * Internal project management of Electronic invoice (chorus) and electronic safe project.  
 
@@ -35,11 +41,11 @@ Born in 2017. Lives in Bry/Marne (94)
 
 * Management of [Yourcegid Consolidation](https://www.cegid.com/fr/produits/yc-conso/): French leader on small groups
 * Then after 2 years, management of [Yourcegid Fiscalité](https://www.cegid.com/fr/produits/yc-fiscalite/) concurrently: French leader in tax management.
-* Stack: On premises & SAAS. Delphi, SQL Server with a proprietary web server, SVN, Cruise Control. 
+* Stack: Delphi, SQL Server, proprietary web server, SVN, Cruise Control. 
 * Management:
     - Set up Scrum. Scrum master of 2 teams (6 + 9 team members)
-    - Management : up to 10 developers
-* Developement: Transform the softwares to deploy on SAAS with a web server.
+    - Management : up to 10 engineers
+* Migration from on-premises to SAAS.
 
 ### 2004-06 / 2005-06: Business intelligence consultant at [CEGID](https://www.cegid.com/fr/)
 
@@ -48,11 +54,11 @@ Born in 2017. Lives in Bry/Marne (94)
 
 ### 2003-11 / 2004-05: Chartered Accountant internship
 
-* Audit & Revision
+* Audit & Review
 
-### 2003-10 / 2001-03: Co-funder of UNIONLAB
+### 2003-10 / 2001-03: Main funder of UNIONLAB
 
-* Creation of the startup. SA with 2 developers and 3 partners
+* 2 engineers and 3 co-funders
 * Developement of an automatic invoice reading system in Java.
 * The firm has been liquidated but the engine is still used by [TESSI](https://www.tessi.eu/fr/solution/services/digitalisation-des-processus-documentaires/paiement/dematerialisation-des-factures-fournisseurs-et-processus-procure-to-pay/)
 
@@ -62,7 +68,7 @@ Born in 2017. Lives in Bry/Marne (94)
 
 ## EDUCATION
 
-* 2000 : D.E.S.C.F 
+* 2000 : D.E.S.C.F (Master's degree in accounting)
 * 1999 : D.E.C.F - IUT Nantes
 * 1997 : D.U.T. G.E.A (Businness management)
 * 1995 : BAC E.S. AB distinction
@@ -72,6 +78,3 @@ Born in 2017. Lives in Bry/Marne (94)
 * [3 personnal projects](https://github.com/albangiroux/home)
 * Married, 3 daughters
 * Sport: Volley ball
-
-
-
