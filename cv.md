@@ -75,6 +75,6 @@ Born in 1977. Lives in Bry/Marne (94) - France
 
 ## EXTRA
 
-* [3 personnal projects](https://github.com/albangiroux/home)
+* [3 personnal projects: https://github.com/albangiroux/home](https://github.com/albangiroux/home)
 * Married, 3 daughters
 * Sport: Volley ball
